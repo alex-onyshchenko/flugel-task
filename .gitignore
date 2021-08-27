@@ -1,0 +1,6 @@
+.terraform
+.terraform.*
+plan.out
+*.tfstate
+*.tfstate.*
+.DS_Store
